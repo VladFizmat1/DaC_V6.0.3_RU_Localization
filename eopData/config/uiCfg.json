@@ -1,0 +1,16 @@
+{
+    "hideLauncher": true,
+    "launcherTheme": "DAC",
+    "modCfgFile": "TATW.cfg",
+    "modTitle": "Разделяй и властвуй",
+    "modVersion": "6.0.3",
+    "musicVolume": 15,
+    "playBackgroundMusic": false,
+    "runButtonColor": "201, 169, 64, 150",
+    "runButtonHoverColor": "201, 169, 64, 250",
+    "useM2TWEOP": true,
+    "useVanillaCfg": false,
+    "showLuaRetryIgnore": false,
+    "discordServerLink": "https://discord.gg/Epqjm8u2WK",
+    "websiteLink": "https://youneuoy.github.io/M2TWEOP-library/"
+}
